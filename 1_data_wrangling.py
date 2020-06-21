@@ -195,7 +195,7 @@ The cell that follows the one that you edit will contain code that will submit y
 from pycosmos import CosmosProject
 tamu_datathon = CosmosProject('tamu_datathon')
 
-email = "riyadanait@utexas.edu" # Enter your email here
+email = "" # Enter your email here
 
 """## Loading & Describing Data - 10 Points
 
@@ -276,7 +276,6 @@ for(i, column) in enumerate(list(cars_data.columns)):
   
 plt.show()
 
-# Set this variable equal to your answer (Hint: It should be a string)
 price_weight_relationship = "Positive"
 
 #@title Run to get points for: Visualizing Data (10 Points)
