@@ -437,7 +437,7 @@ Each section of the challenge will have some instructions, please **carefully re
 #### Set the 'email' variable below to the email you used to sign up for Cosmos
 """
 
-email = "riyadanait@utexas.edu"  # e.g. email = "example@gmail.com"
+email = ""  # e.g. email = "example@gmail.com"
 
 """## Wine Connoisseur?
 
