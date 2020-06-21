@@ -357,7 +357,7 @@ Enter your email below and run the cell to show that you have completed the less
 from pycosmos import CosmosProject
 tamu_datathon = CosmosProject('tamu_datathon')
 
-email = "riyadanait@utexas.edu" # Enter your email here
+email = "" # Enter your email here
 
 # Do not change this line
 print(tamu_datathon.judge_attempt('lesson_3_completion', email, ["Done"]))
